@@ -1,56 +1,51 @@
 # Exercícios de Lógica de Programação – Java
 
-Este repositório reúne exercícios de lógica de programação que resolvi utilizando Java.
+Este repositório reúne exercícios de **lógica de programação resolvidos utilizando Java**.
 
-Os exercícios foram retirados da plataforma Beecrowd, cobrindo uma boa variedade de desafios de lógica, cálculos e estruturas de controle.
+Grande parte dos problemas foi retirada da plataforma Beecrowd, que oferece diversos desafios focados no desenvolvimento de raciocínio lógico, cálculos e uso de estruturas de controle.
 
-----------------------------------------------------------------------------------------------------------------------------
+A ideia deste repositório é registrar minha prática, acompanhar minha evolução e servir como material de estudo para revisar conceitos importantes de programação.
 
-# Objetivo
+---
 
-O principal objetivo deste repositório é praticar e consolidar conceitos de lógica de programação aplicados em Java, incluindo:
+## Objetivo
 
-Operadores aritméticos e relacionais
+O principal objetivo deste repositório é **praticar e consolidar conceitos fundamentais de lógica de programação utilizando Java**, incluindo:
 
-Estruturas condicionais (if, else)
+* Operadores aritméticos e relacionais
+* Estruturas condicionais (`if`, `else`)
+* Estruturas de repetição (`for`, `while`)
+* Entrada e saída de dados
+* Manipulação de variáveis e cálculos
+* Resolução de problemas algorítmicos
 
-Estruturas de repetição (for, while)
+Mais do que apenas resolver os exercícios, o foco é **entender a lógica por trás de cada problema** e desenvolver um raciocínio mais estruturado na programação.
 
-Funções e modularização de código
+---
 
-Entrada e saída de dados
+## Conteúdo
 
-Mais do que apenas resolver os exercícios, o foco foi entender a lógica por trás de cada problema.
+O repositório contém soluções para exercícios da plataforma **Beecrowd**, organizados de forma simples e sequencial.
 
-----------------------------------------------------------------------------------------------------------------------------
-# Conteúdo
+Cada exercício possui:
 
-O repositório contém soluções para os exercícios do Beecrowd, organizados de forma sequencial. Cada exercício tem:
+* Código-fonte em **Java**
+* Nome do arquivo seguindo o padrão do exercício
 
-Código-fonte em Java
+Exemplo:
 
-Nome de arquivo correspondente ao número do exercício (por exemplo: 1001.java, 1002.java, …)
+```
+bee1001.java
+bee1002.java
+bee1003.java
+bee1004.java
+```
 
-Benefícios dessa prática
+Essa organização facilita identificar rapidamente a qual problema cada solução corresponde.
 
-Trabalhar com esses exercícios ajuda a:
+---
 
-Treinar resolução de problemas e pensamento lógico
+## Plataforma utilizada
 
-Ganhar familiaridade com sintaxe e padrões em Java
-
-Desenvolver disciplina e consistência na prática de programação
-
-Preparar para desafios maiores e competições de programação
-
-----------------------------------------------------------------------------------------------------------------------------
-
-# Considerações
-
-Esse conjunto de exercícios é mais do que números e código — ele representa prática constante, paciência e evolução.
-
-Cada exercício resolvido é um passo a mais no domínio da lógica de programação e na confiança em trabalhar com Java.
-
-----------------------------------------------------------------------------------------------------------------------------
-
-Plataforma: https://beecrowd.com/
+Beecrowd
+https://beecrowd.com/
